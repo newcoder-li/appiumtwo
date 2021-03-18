@@ -1,0 +1,36 @@
+Fri, 19 Mar 2021 00:24:27 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:24:30 base_page.py[line:34] INFO 未找到元素
+Fri, 19 Mar 2021 00:24:31 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:25:54 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:25:58 base_page.py[line:34] INFO 未找到元素
+Fri, 19 Mar 2021 00:25:58 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:25:59 contract_list_page.py[line:10] INFO 输入用户名laoli2，获取删除前结果数量
+Fri, 19 Mar 2021 00:25:59 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guu"]
+Fri, 19 Mar 2021 00:26:03 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/fk1"]
+Fri, 19 Mar 2021 00:26:06 contract_list_page.py[line:19] INFO 点击第一个成员，进入联系人详情页
+Fri, 19 Mar 2021 00:26:06 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guk"]
+Fri, 19 Mar 2021 00:26:09 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/azd"]
+Fri, 19 Mar 2021 00:26:10 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/duq"]
+Fri, 19 Mar 2021 00:26:12 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="确定"]
+Fri, 19 Mar 2021 00:30:38 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:30:41 base_page.py[line:33] INFO 未找到元素
+Fri, 19 Mar 2021 00:30:41 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:30:42 contract_list_page.py[line:10] INFO 输入用户名laoli2，获取删除前结果数量
+Fri, 19 Mar 2021 00:30:42 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guu"]
+Fri, 19 Mar 2021 00:30:47 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/fk1"]
+Fri, 19 Mar 2021 00:30:50 contract_list_page.py[line:19] INFO 点击第一个成员，进入联系人详情页
+Fri, 19 Mar 2021 00:30:51 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guk"]
+Fri, 19 Mar 2021 00:30:53 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/azd"]
+Fri, 19 Mar 2021 00:30:54 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/duq"]
+Fri, 19 Mar 2021 00:30:56 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="确定"]
+Fri, 19 Mar 2021 00:32:35 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:32:38 base_page.py[line:33] INFO 未找到元素
+Fri, 19 Mar 2021 00:32:38 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="通讯录" and @resource-id="com.tencent.wework:id/dqn"]
+Fri, 19 Mar 2021 00:32:41 contract_list_page.py[line:10] INFO 输入用户名laoli2，获取删除前结果数量
+Fri, 19 Mar 2021 00:32:41 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guu"]
+Fri, 19 Mar 2021 00:32:44 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/fk1"]
+Fri, 19 Mar 2021 00:32:47 contract_list_page.py[line:19] INFO 点击第一个成员，进入联系人详情页
+Fri, 19 Mar 2021 00:32:48 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/guk"]
+Fri, 19 Mar 2021 00:32:50 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/azd"]
+Fri, 19 Mar 2021 00:32:52 base_page.py[line:28] INFO find: by=xpath, locator=//*[@resource-id="com.tencent.wework:id/duq"]
+Fri, 19 Mar 2021 00:32:53 base_page.py[line:28] INFO find: by=xpath, locator=//*[@text="确定"]
